@@ -24,7 +24,7 @@
         "display4Font": "Montserrat",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -54,8 +54,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Lauren Trinity",
+        "meta_descr": "Lauren Trinity",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""

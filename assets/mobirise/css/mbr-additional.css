@@ -169,8 +169,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #1fa394 !important;
-  border-color: #1fa394 !important;
+  background-color: #1eafaa !important;
+  border-color: #1eafaa !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -178,14 +178,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #13635a !important;
-  border-color: #13635a !important;
+  background-color: #136e6b !important;
+  border-color: #136e6b !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #13635a !important;
-  border-color: #13635a !important;
+  background-color: #136e6b !important;
+  border-color: #136e6b !important;
 }
 .btn-info,
 .btn-info:active {
@@ -333,22 +333,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #0f4d46;
-  color: #0f4d46;
+  border-color: #0f5855;
+  color: #0f5855;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #1fa394;
-  border-color: #1fa394;
+  background-color: #1eafaa;
+  border-color: #1eafaa;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #1fa394 !important;
-  border-color: #1fa394 !important;
+  background-color: #1eafaa !important;
+  border-color: #1eafaa !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -468,7 +468,7 @@ body {
   color: #96489c !important;
 }
 .text-secondary {
-  color: #1fa394 !important;
+  color: #1eafaa !important;
 }
 .text-success {
   color: #23ad85 !important;
@@ -494,7 +494,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #0f4d46 !important;
+  color: #0f5855 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1384,7 +1384,7 @@ body {
   }
 }
 .cid-rng3WjIl5e {
-  background-image: url("../../../assets/images/yellow-balloon-cover-1-1800x1125.jpg");
+  background-image: url("../../../assets/images/balloons-white-background-1800x1474.jpg");
 }
 .cid-rng3WjIl5e .mbr-figure {
   margin: 0 auto;
@@ -1403,11 +1403,15 @@ body {
   }
 }
 .cid-rng3WjIl5e H1 {
-  color: #16998a;
+  color: #1fa394;
 }
 .cid-rng3WjIl5e .mbr-text,
 .cid-rng3WjIl5e .mbr-section-btn {
   color: #16998a;
+}
+.cid-rng3WjIl5e .mbr-text,
+.cid-rng3WjIl5e .mbr-section-btn B {
+  color: #6c407c;
 }
 .cid-rng7RRYt2K {
   padding-top: 90px;

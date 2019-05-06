@@ -1413,10 +1413,61 @@ body {
 .cid-rng3WjIl5e .mbr-section-btn B {
   color: #6c407c;
 }
-.cid-rng7RRYt2K {
+.cid-rpscMOJIbl {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/two-sweet-cover-2-1600x1067.jpg");
+}
+.cid-rpscMOJIbl .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rpscMOJIbl .step {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border-radius: 50%;
+  border: 2px solid #ffee75;
+  color: #ffee75;
+}
+@media (max-width: 767px) {
+  .cid-rpscMOJIbl .step {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-rpscMOJIbl .separline {
+  position: relative;
+}
+.cid-rpscMOJIbl .separline:after {
+  top: 68px;
+  left: 30px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (32px + 4px) * 2);
+  background-color: #ffee75;
+}
+@media (max-width: 767px) {
+  .cid-rpscMOJIbl .separline:after {
+    top: 52px;
+    left: 22px;
+    height: calc(100% - 56px);
+  }
+}
+.cid-rpscMOJIbl .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rpscMOJIbl .mbr-section-subtitle B {
+  color: #ffffff;
+}
+.cid-rpscMOJIbl .mbr-step-title {
+  color: #ffffff;
+}
+.cid-rpscMOJIbl .mbr-step-text {
+  color: #ffffff;
 }
 .cid-rng8MchUZ9 {
   padding-top: 90px;
